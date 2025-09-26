@@ -5,7 +5,7 @@ Upon landing on the site, you are greeted with three main options that indicate 
 
 🚀 Live Website
 
-The Sweet Shop – Live Website
+The Sweet Shop – Live Website  https://the-sweet-shop-davidhearl.herokuapp.com/
 
 📑 Table of Contents
 
